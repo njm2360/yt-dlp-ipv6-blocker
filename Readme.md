@@ -1,4 +1,4 @@
-# VRChat用yt-dlp向けGoogleIPv６ブロッカー
+# VRChat用yt-dlp向けGoogleIPv6ブロッカー
 
 ## これは何
 
